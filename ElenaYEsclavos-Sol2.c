@@ -27,5 +27,14 @@ int main() {
 	/*Se imprime el numero de digitos*/
 	printf("Su numero tiene %u digitos",contador);
 	return 0;
-}
-
+	
+	/*
+	QA
+	Entrada Salida Resultado
+	23		2		2
+	0		0		1
+	7323    4		4
+	2		1		1
+	
+	*/
+	
